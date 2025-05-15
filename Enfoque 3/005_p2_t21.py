@@ -1,2 +1,0 @@
-- Estados y acciones codificados como proposiciones
-- Se busca un modelo que cumpla la meta
